@@ -1,0 +1,34 @@
+# Blender 4.1.1 MTL File: 'Tipjar.blend'
+# www.blender.org
+
+newmtl Coins1Mtl.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.379284 0.379284 0.379284
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Jar1_diff.png
+map_Ns C:/Jar1_spec.png
+map_d C:/Jar1_diff.png
+map_Bump C:/Jar1_nmap.png
+
+newmtl Jar1Mtl.001
+Ka 1.000000 1.000000 1.000000
+Ks 0.940601 0.940601 0.940601
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 9
+map_Kd C:/Jar1_diff.png
+map_Ns C:/Jar1_spec.png
+map_d C:/Jar1_diff.png
+map_Bump C:/Jar1_nmap.png
+
+newmtl Sign1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd C:/Sign1_diff.png
+map_d C:/Sign1_diff.png

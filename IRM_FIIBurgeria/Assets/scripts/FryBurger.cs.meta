@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 56f0c7596ca44a8489881c684876567a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teleportDestination: {instanceID: 0}
+  - burgerPattyRaw: {instanceID: 0}
+  - cookedPatty: {instanceID: 0}
+  - PattyInitLocation: {instanceID: 0}
+  - PanLocation: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - teleportSound: {fileID: 8300000, guid: 86804fc2429279041b8e39aa5cc77353, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
